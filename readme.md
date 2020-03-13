@@ -27,6 +27,6 @@ npm install -g mixin-log-cli
 ```
 执行如下命令
 ```cmd
-mixin-log-cli -k ./config/keystore.json -r e8e8cd79-cd40-4796-8c54-3a13cfe50115 -f ./err.log -w server,error
+mixin-log-cli -k ./config/keystore.json -r e8e8cd79-cd40-4796-8c54-3a13cfe50115 -f ./log/err.log -w server,error
 ```
 
