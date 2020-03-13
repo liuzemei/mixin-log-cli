@@ -6,7 +6,7 @@ npm install -g mixin-log-cli
 | 参数 | 是否必须 | 含义 |
 | - | ---- | ----------------- |
 | -f | 是 | `filepath`:要监听的文件路径 |
-| -t | 否 | `keystore`:keystore的json格式的文件路径 |
+| -t | 否 | `token`: webhook 的 token |
 | -k | 否 | `keystore`:keystore的json格式的文件路径 |
 | -r | 否 | `recipient_id`:获取 log 的 user_id |
 | -w | 否 | `keyword`:要监听的关键词，以 `,` 隔开 |
