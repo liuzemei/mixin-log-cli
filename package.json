@@ -1,6 +1,6 @@
 {
   "name": "mixin-log-cli",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "",
   "bin": {
     "mixin-log-cli": "./bin/mixin-log-cli.js"
@@ -11,6 +11,7 @@
   "author": "neo",
   "license": "ISC",
   "dependencies": {
+    "axios": "^0.19.2",
     "commander": "^4.1.1",
     "mixin-node-sdk": "^1.0.9"
   }
