@@ -1,0 +1,17 @@
+{
+  "name": "mixin-log-cli",
+  "version": "0.0.5",
+  "description": "",
+  "bin": {
+    "mixin-log-cli": "./bin/mixin-log-cli.js"
+  },
+  "keywords": [
+    "mixin"
+  ],
+  "author": "neo",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^4.1.1",
+    "mixin-node-sdk": "^1.0.9"
+  }
+}
